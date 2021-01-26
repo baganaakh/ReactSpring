@@ -47,11 +47,11 @@ public class Employee {
 	public void setLastName(String lastName) {
 		this.lastName = lastName;
 	}
-	public String getDescription() {
+	public String getEmailId() {
 		return emailId;
 	}
-	public void setDescription(String emailID) {
-		this.emailId = emailID;
+	public void setEmailId(String emailId) {
+		this.emailId = emailId;
 	}
 	
 	
